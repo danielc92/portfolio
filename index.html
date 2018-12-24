@@ -3,12 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hello Bulma!</title>
+    <title>dc portfolio</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   </head>
   <body>
+
 	<nav class="navbar is-light" role="navigation" aria-label="main navigation">
+	  <section class = "container">
 	  <div class="navbar-brand">
 		<a class="navbar-item" href="https://bulma.io">
 		  <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
@@ -24,20 +26,39 @@
 	  <div id="navbarBasicExample" class="navbar-menu">
 		<div class="navbar-start">
 		  <a class="navbar-item">
-			Github
+			About
 		  </a>
 
 		  <a class="navbar-item">
-			Wordpress
+			Core Skills
+		  </a>
+		  <a class="navbar-item">
+			Projects
 		  </a>
 		  
 		  <a class="navbar-item">
 			Resume
 		  </a>
-
 		</div>
+		
+		<div class="navbar-end">
+		  <div class="navbar-item">
+			<div class="buttons">
+			  <a class="button is-dark">
+				Github
+			  </a>
+			  <a class="button is-primary">
+				Wordpress
+			  </a>
+			  <a class="button is-primary">
+				CV
+			  </a>
+			</div>
+		  </div>
+		</div>
+		</section>
 	</nav>
-  <section class="section">
+  <section class="section has-background-primary" id="to-about">
     <div class="container">
       <h1 class="title">
         About
@@ -48,14 +69,41 @@
     </div>
   </section>
   
-	<script type="text/javascript">
-        var dropdown = document.querySelector('.navbar-burger');
-        var menu = document.querySelector('.navbar-menu')
-        dropdown.addEventListener('click', function(event) {
-          event.stopPropagation();
-          menu.classList.toggle('is-active');
-        });
-    </script>
+  <section class="section has-background-link" id="to-core-skills">
+    <div class="container">
+      <h1 class="title">
+        Core Skills
+      </h1>
+      <p class="subtitle">
+        Some text about core skills.
+      </p>
+    </div>
+  </section>
+  
+  <section class="section has-background-warning" id="to-projects">
+    <div class="container">
+      <h1 class="title">
+        Projects
+      </h1>
+      <p class="subtitle">
+        Some text about projects undertaken.
+      </p>
+    </div>
+  </section>
+  
+
+  
+  
+  
+  
+<script type="text/javascript">
+	var dropdown = document.querySelector('.navbar-burger');
+	var menu = document.querySelector('.navbar-menu')
+	dropdown.addEventListener('click', function(event) {
+	  event.stopPropagation();
+	  menu.classList.toggle('is-active');
+	});
+</script>
 	
 	
   </body>
