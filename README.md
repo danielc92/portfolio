@@ -30,8 +30,12 @@ Within the notebook it is split up into several components.
 - Daniel Corcoran
 
 # Tests
-Successfully ran notebook to generate site.
-Site is fullly functional.
+- `bulma` css framework applied and working as intended.
+- `google fonts` applied and working as intended.
+- Feeding data into project base template, all images and text appear in html as intended.
+- Site exports successully.
+- Site runs successfully on github pages.
+- Site links, images are working as intended.
 
 # Sources
 - [Bulma CSS Framework Documentation](https://bulma.io/)
