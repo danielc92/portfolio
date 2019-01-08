@@ -12,6 +12,11 @@ This project currently relies on the use of `jupyter notebook` in `python3.7`. N
 pip install jupyter
 ```
 
+Obtaining the repository
+```sh
+git clone https://github.com/danielc92/portfolio-site.git
+```
+
 # Instructions
 To start the notebook
 ```sh
