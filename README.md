@@ -1,5 +1,6 @@
 # Portfolio Site
-Daniel Corcoran's static portfolio website, currently being hosted on github pages and generated via `jupyter notebook`. This is an enduring piece and is to be updated regularly as projects are completed. The main reason for the creation of this website was to bring together Daniel Corcoran's projects from a range of disparate sources such as **Wordpress**, **Github** and **Tableau**.
+Daniel Corcoran's static portfolio website, currently being hosted on github pages and generated via `jupyter notebook`. This is an enduring piece and is to be updated regularly as projects are completed. 
+The main reason for the creation of this website was to bring together Daniel Corcoran's projects from a range of disparate sources such as **Wordpress**, **Github** and **Tableau**.
 
 The site can currently be visitted using this [link](https://danielc92.github.io/portfolio-site/).
 
