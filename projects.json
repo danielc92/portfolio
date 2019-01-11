@@ -1,0 +1,101 @@
+[
+{
+    "name": "Shark Object Detection",
+    "info": "Training a YOLOv3 model to detect sharks under water in both image and video files.",
+    "url": "https://danielcorcoranssql.wordpress.com/2018/12/30/detecting-sharks-with-yolov3/",
+    "date": "30-12-2018",
+    "themes": ["deep learning", "object detection"],
+    "tools": ["cuda", "c++", "CNN", "YOLOv3"],
+    "img-url": "images/object-shark-1.jpg",
+    "placeholder": false
+},
+{
+    "name": "DC Charts",
+    "info": "A flask web application capable of dynamically producing svg charts from csvs hosted on github.",
+    "url": "https://dc-chart.herokuapp.com",
+    "date": "20-12-2018",
+    "themes": ["web development", "data visualization", "data analysis"],
+    "tools": ["flask", "heroku", "python", "pygal"],
+    "img-url": "images/dc-chart-2.png",
+    "placeholder": false
+},
+{
+    "name": "NFPA Object Detection",
+    "info": "Training a YOLOv3 model to detect National Fire Protection Association (NFPA) symbols.",
+    "url": "https://danielcorcoranssql.wordpress.com/2018/12/24/yolov3-custom-model-training-nfpa-dataset/",
+    "date": "1-12-2018",
+    "themes": ["deep learning", "object detection"],
+    "tools": ["cuda", "c++", "CNN", "YOLOv3"],
+    "img-url": "images/object-nfpa-1.png",
+    "placeholder": false
+},
+{
+    "name": "Postgres Network Graph",
+    "info": "An animated visualization of a postgres database using D3.js, embedded in a tableau dashboard.",
+    "url": "https://public.tableau.com/profile/daniel.corcoran#!/vizhome/dvdrental2/Visualizingdvdrentalspostgresdatabase",
+    "date": "12-9-2018",
+    "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
+    "tools": ["tableau desktop", "tableau public", "D3.js", "python"],
+    "img-url": "images/network-graph-1.png",
+    "placeholder": false
+},
+{
+    "name": "Data Profiling",
+    "info": "A Jupyter notebook capable of profiling data using python's pandas library.",
+    "url": "https://github.com/danielc92/python_nb_data_profiling/blob/master/notebook_data_profililng.ipynb",
+    "date": "15-7-2018",
+    "themes": ["data visualization", "data profiling"],
+    "tools": ["jupyter notebook", "pandas", "python", "seaborn"],
+    "img-url": "images/data-profiling-1.png",
+    "placeholder": false
+},
+{
+    "name": "Vic Crash Stats V2",
+    "info": "A tableau dashboard which examines over a decade of crash data in Victoria.",
+    "url": "https://public.tableau.com/profile/daniel.corcoran#!/vizhome/VicCrashStatsv2/TransportDashboard",
+    "date": "7-6-2018",
+    "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
+    "tools": ["tableau desktop", "tableau public", "python"],
+    "img-url": "images/vic-crash-stats-1.png",
+    "placeholder": false
+},
+{
+    "name": "Crime in Victoria",
+    "info": "A series of tableau dashboards which examine over a decade of crime data in Victoria.",
+    "url": "https://public.tableau.com/profile/daniel.corcoran#!/vizhome/OffencesinVictoria/OffencesinVictoriaDashboard",
+    "date": "7-6-2018",
+    "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
+    "tools": ["tableau desktop", "tableau public", "python"],
+    "img-url": "images/crime-in-vic-1.png",
+    "placeholder": false
+},
+{
+    "name": "Preschool Trainer App",
+    "info": "Designing and building a desktop application capable of dynamically generating and marking student tests. This project has 2 parts.",
+    "url": "https://danielcorcoranssql.wordpress.com/2017/03/12/c-project-preschool-trainer-v1-0-2-part-2/",
+    "date": "12-3-2017",
+    "themes": ["desktop application", "education"],
+    "tools": ["Visual Studio", "C#"],
+    "img-url": "images/preschool-trainer-1.png",
+    "placeholder": false
+},
+{
+    "name": "University Database",
+    "info": "Designing and building a university database in Microsoft SQL Server. This project has 5 parts.",
+    "url": "https://danielcorcoranssql.wordpress.com/2017/02/12/sql-server-project-university-database-part-1-design/",
+    "date": "12-2-2017",
+    "themes": ["relational database", "database design"],
+    "tools": ["Microsoft SQL Server", "SQL"],
+    "img-url": "images/uni-database-1.png",
+    "placeholder": false
+},
+{
+    "name": "Police Database",
+    "info": "Designing and building a police database in Microsoft SQL Server. This project has 5 parts.",
+    "url": "https://danielcorcoranssql.wordpress.com/2017/01/02/database-project-state-police-database-design-part-1/",
+    "date": "2-1-2017",
+    "themes": ["relational database", "database design"],
+    "tools": ["Microsoft SQL Server", "SQL"],
+    "img-url": "images/police-database-1.png",
+    "placeholder": false
+}]
