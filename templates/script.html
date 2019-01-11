@@ -1,0 +1,8 @@
+<script type="text/javascript">
+    var dropdown = document.querySelector('.navbar-burger');
+    var menu = document.querySelector('.navbar-menu')
+    dropdown.addEventListener('click', function(event) {
+      event.stopPropagation();
+      menu.classList.toggle('is-active');
+    });
+</script>

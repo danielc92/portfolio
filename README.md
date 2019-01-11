@@ -10,6 +10,7 @@ This project currently relies on the use of `jupyter notebook` in `python3.7`. N
 
 ```sh
 pip install jupyter
+pip install jinja2
 ```
 
 Obtaining the repository
