@@ -1,5 +1,15 @@
 [
 {
+    "name": "Pool Detection Aerial Imagery",
+    "info": "Detecting pools in Melbourne from high quality satellite imagery.",
+    "url": "https://wordpress.com/post/danielcorcoranssql.wordpress.com/7312",
+    "date": "13-1-2019",
+    "themes": ["object detection"],
+    "tools": ["opencv2", "python", "jupyter"],
+    "img-url": "images/pool-1.jpg",
+    "placeholder": false
+},
+{
     "name": "Shark Object Detection",
     "info": "Training a YOLOv3 model to detect sharks under water in both image and video files.",
     "url": "https://danielcorcoranssql.wordpress.com/2018/12/30/detecting-sharks-with-yolov3/",
@@ -37,6 +47,16 @@
     "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
     "tools": ["tableau desktop", "tableau public", "D3.js", "python"],
     "img-url": "images/network-graph-1.png",
+    "placeholder": false
+},
+{
+    "name": "Logistic Regression Collection",
+    "info": "Collection of several logistic regression (binary classification) models, mainly using health data.",
+    "url": "https://github.com/danielc92/python_nb_sklearn_logistic_regression",
+    "date": "20-7-2018",
+    "themes": ["logistic regression", "machine learning", "classification"],
+    "tools": ["jupyter notebook", "sklearn", "pandas", "python", "seaborn"],
+    "img-url": "images/log.jpg",
     "placeholder": false
 },
 {
