@@ -1,4 +1,14 @@
 [
+    {
+    "name": "IMDB Sentiment Analysis (text classification)",
+    "info": "Predicting sentiment scores for user commentary from a movie review dataset.",
+    "url": "https://github.com/danielc92/python_nb_sklearn_gaussian_naive_bayes/blob/master/nb_sklearn_multinomial_naive_bayes_imdb(with%20GridSearchCV).ipynb",
+    "date": "15-1-2019",
+    "themes": ["text classification", "machine learning", "naive bayes"],
+    "tools": ["sklearn", "python", "jupyter"],
+    "img-url": "images/sentiment.jpg",
+    "placeholder": false
+},
 {
     "name": "Pool Detection Aerial Imagery",
     "info": "Detecting pools in Melbourne from high quality satellite imagery.",
