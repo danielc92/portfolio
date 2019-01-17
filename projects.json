@@ -1,13 +1,22 @@
 [
     {
-    "name": "IMDB Sentiment Analysis (text classification)",
-    "info": "Predicting sentiment scores for user commentary from a movie review dataset.",
+    "name": "SMS Spam Detection",
+    "info": "Using sklearn to classify spam sms messages (with 96% accuracy).",
     "url": "https://github.com/danielc92/python_nb_sklearn_gaussian_naive_bayes/blob/master/nb_sklearn_multinomial_naive_bayes_imdb(with%20GridSearchCV).ipynb",
+    "date": "16-1-2019",
+    "themes": ["text classification", "machine learning", "naive bayes"],
+    "tools": ["sklearn", "python", "jupyter"],
+    "img-url": "images/spam-mail.png"
+},
+
+    {
+    "name": "IMDB Sentiment Analysis",
+    "info": "Using sklearn to predict sentiment from IMDB's movie review dataset (with 81% accuracy).",
+    "url": "https://github.com/danielc92/python_nb_sklearn_gaussian_naive_bayes/blob/master/multinomial-naive-bayes-imdb-gridsearch.ipynb",
     "date": "15-1-2019",
     "themes": ["text classification", "machine learning", "naive bayes"],
     "tools": ["sklearn", "python", "jupyter"],
-    "img-url": "images/sentiment.jpg",
-    "placeholder": false
+    "img-url": "images/sentiment.jpg"
 },
 {
     "name": "Pool Detection Aerial Imagery",
@@ -16,8 +25,7 @@
     "date": "13-1-2019",
     "themes": ["object detection"],
     "tools": ["opencv2", "python", "jupyter"],
-    "img-url": "images/pool-1.jpg",
-    "placeholder": false
+    "img-url": "images/pool-1.jpg"
 },
 {
     "name": "Shark Object Detection",
@@ -26,8 +34,7 @@
     "date": "30-12-2018",
     "themes": ["deep learning", "object detection"],
     "tools": ["cuda", "c++", "CNN", "YOLOv3"],
-    "img-url": "images/object-shark-1.jpg",
-    "placeholder": false
+    "img-url": "images/object-shark-1.jpg"
 },
 {
     "name": "DC Charts",
@@ -36,8 +43,7 @@
     "date": "20-12-2018",
     "themes": ["web development", "data visualization", "data analysis"],
     "tools": ["flask", "heroku", "python", "pygal"],
-    "img-url": "images/dc-chart-2.png",
-    "placeholder": false
+    "img-url": "images/dc-chart-2.png"
 },
 {
     "name": "NFPA Object Detection",
@@ -46,8 +52,7 @@
     "date": "1-12-2018",
     "themes": ["deep learning", "object detection"],
     "tools": ["cuda", "c++", "CNN", "YOLOv3"],
-    "img-url": "images/object-nfpa-1.png",
-    "placeholder": false
+    "img-url": "images/object-nfpa-1.png"
 },
 {
     "name": "Postgres Network Graph",
@@ -56,8 +61,7 @@
     "date": "12-9-2018",
     "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
     "tools": ["tableau desktop", "tableau public", "D3.js", "python"],
-    "img-url": "images/network-graph-1.png",
-    "placeholder": false
+    "img-url": "images/network-graph-1.png"
 },
 {
     "name": "Logistic Regression Collection",
@@ -66,8 +70,7 @@
     "date": "20-7-2018",
     "themes": ["logistic regression", "machine learning", "classification"],
     "tools": ["jupyter notebook", "sklearn", "pandas", "python", "seaborn"],
-    "img-url": "images/log.jpg",
-    "placeholder": false
+    "img-url": "images/log.jpg"
 },
 {
     "name": "Data Profiling",
@@ -76,8 +79,7 @@
     "date": "15-7-2018",
     "themes": ["data visualization", "data profiling"],
     "tools": ["jupyter notebook", "pandas", "python", "seaborn"],
-    "img-url": "images/data-profiling-1.png",
-    "placeholder": false
+    "img-url": "images/data-profiling-1.png"
 },
 {
     "name": "Vic Crash Stats V2",
@@ -86,8 +88,7 @@
     "date": "7-6-2018",
     "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
     "tools": ["tableau desktop", "tableau public", "python"],
-    "img-url": "images/vic-crash-stats-1.png",
-    "placeholder": false
+    "img-url": "images/vic-crash-stats-1.png"
 },
 {
     "name": "Crime in Victoria",
@@ -96,8 +97,7 @@
     "date": "7-6-2018",
     "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
     "tools": ["tableau desktop", "tableau public", "python"],
-    "img-url": "images/crime-in-vic-1.png",
-    "placeholder": false
+    "img-url": "images/crime-in-vic-1.png"
 },
 {
     "name": "Preschool Trainer App",
@@ -106,8 +106,7 @@
     "date": "12-3-2017",
     "themes": ["desktop application", "education"],
     "tools": ["Visual Studio", "C#"],
-    "img-url": "images/preschool-trainer-1.png",
-    "placeholder": false
+    "img-url": "images/preschool-trainer-1.png"
 },
 {
     "name": "University Database",
@@ -116,8 +115,7 @@
     "date": "12-2-2017",
     "themes": ["relational database", "database design"],
     "tools": ["Microsoft SQL Server", "SQL"],
-    "img-url": "images/uni-database-1.png",
-    "placeholder": false
+    "img-url": "images/uni-database-1.png"
 },
 {
     "name": "Police Database",
@@ -126,6 +124,5 @@
     "date": "2-1-2017",
     "themes": ["relational database", "database design"],
     "tools": ["Microsoft SQL Server", "SQL"],
-    "img-url": "images/police-database-1.png",
-    "placeholder": false
+    "img-url": "images/police-database-1.png"
 }]
