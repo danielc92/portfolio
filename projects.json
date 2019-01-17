@@ -2,7 +2,7 @@
     {
     "name": "SMS Spam Detection",
     "info": "Using sklearn to classify spam sms messages (with 96% accuracy).",
-    "url": "https://github.com/danielc92/python_nb_sklearn_gaussian_naive_bayes/blob/master/nb_sklearn_multinomial_naive_bayes_imdb(with%20GridSearchCV).ipynb",
+    "url": "https://github.com/danielc92/python_nb_sklearn_gaussian_naive_bayes/blob/master/multinomial-naive-bayes-spam-gridsearch.ipynb",
     "date": "16-1-2019",
     "themes": ["text classification", "machine learning", "naive bayes"],
     "tools": ["sklearn", "python", "jupyter"],
@@ -21,7 +21,7 @@
 {
     "name": "Pool Detection Aerial Imagery",
     "info": "Detecting pools in Melbourne from high quality satellite imagery.",
-    "url": "https://wordpress.com/post/danielcorcoranssql.wordpress.com/7312",
+    "url": "https://danielcorcoranssql.wordpress.com/2019/01/13/detecting-pools-from-aerial-imagery-using-cv2/",
     "date": "13-1-2019",
     "themes": ["object detection"],
     "tools": ["opencv2", "python", "jupyter"],
