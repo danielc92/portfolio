@@ -1,4 +1,13 @@
 [
+	{
+    "name": "Rain Prediction",
+    "info": "Using sklearn to predict rain on the next day in Australia (with 86% accuracy).",
+    "url": "https://github.com/danielc92/rain_prediction/blob/master/Process.ipynb",
+    "date": "21-1-2019",
+    "themes": ["binary classification", "machine learning", "random forest"],
+    "tools": ["sklearn", "python", "jupyter"],
+    "img-url": "images/rain-prediction.jpg"
+	},
     {
     "name": "SMS Spam Detection",
     "info": "Using sklearn to classify spam sms messages (with 96% accuracy).",
@@ -88,7 +97,7 @@
 	"date":"22-6-2018",
 	"themes":["web development"],
 	"tools":["python", "jupyter"],
-	"img-url":"images/static-site-generator.jpg"
+	"img-url":"images/static-site-generator.png"
 },
 {
     "name": "Vic Crash Stats V2",
