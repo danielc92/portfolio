@@ -82,6 +82,15 @@
     "img-url": "images/data-profiling-1.png"
 },
 {
+	"name":"Static Site Generator",
+	"info":"Generating a static album website in python",
+	"url":"https://danielc92.github.io/static_site_generator/html/index0.html",
+	"date":"22-6-2018",
+	"themes":["web development"],
+	"tools":["python", "jupyter"],
+	"img-url":"images/static-site-generator.jpg"
+},
+{
     "name": "Vic Crash Stats V2",
     "info": "A tableau dashboard which examines over a decade of crash data in Victoria.",
     "url": "https://public.tableau.com/profile/daniel.corcoran#!/vizhome/VicCrashStatsv2/TransportDashboard",
