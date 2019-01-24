@@ -1,5 +1,14 @@
 [
 	{
+    "name": "Robot Forum",
+    "info": "Building a forum web application populated by a fictional robot community.",
+    "url": "https://robot-forum.herokuapp.com",
+    "date": "24-1-2019",
+    "themes": ["web development", "data engineering"],
+    "tools": ["heroku","python", "SQL", "flask"],
+    "img-url": "images/robot-forum-1.jpg"
+	},
+	{
     "name": "Rain Prediction",
     "info": "Using sklearn to predict rain on the next day in Australia (with 86% accuracy).",
     "url": "https://github.com/danielc92/rain_prediction/blob/master/Process.ipynb",
