@@ -15,14 +15,12 @@ pip install jinja2
 
 Obtaining the repository
 ```sh
-git clone https://github.com/danielc92/portfolio-site.git
+git clone https://gitlab.com/corcoran/portoflio.git
 ```
 
 # Instructions
-To start the notebook
-```sh
-cd location/of/this/repo
-jupyter notebook
+```
+python gen.py
 ```
 
 Within the notebook it is split up into several components.
