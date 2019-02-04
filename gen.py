@@ -2,7 +2,7 @@ import pandas
 import json
 from jinja2 import Environment, PackageLoader, select_autoescape
 
-env = Environment(loader=PackageLoader('main', 'templates'), autoescape=select_autoescape(['html','xml']))
+env = Environment(loader=PackageLoader('gen', 'templates'), autoescape=select_autoescape(['html','xml']))
 				  
 with open('projects.json', 'r') as reader:
     projects = json.load(reader)
