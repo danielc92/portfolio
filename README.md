@@ -36,7 +36,7 @@ Within the notebook it is split up into several components.
 - Daniel Corcoran
 
 # Tests
-- `bulma` css framework applied and working as intended.
+- `Bootstrap` css framework applied and working as intended.
 - `google fonts` applied and working as intended.
 - Feeding data into project base template, all images and text appear in html as intended.
 - Site exports successully.
@@ -44,5 +44,5 @@ Within the notebook it is split up into several components.
 - Site links, images are working as intended.
 
 # Sources
-- [Bulma CSS Framework Documentation](https://bulma.io/)
+- [Bootstrap templates](https://startbootstrap.com/template-categories/all/)
 - [Hosting on Github Documentation](https://pages.github.com/)
