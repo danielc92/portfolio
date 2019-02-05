@@ -6,7 +6,7 @@
     "date": "24-1-2019",
     "themes": ["web development", "data engineering"],
     "tools": ["heroku","python", "SQL", "flask"],
-    "img-url": "img/projects/robot-forum-1.jpg"
+    "img-url": "img/projects/robot-forum-1.png"
 	},
 	{
     "name": "Rain Prediction",
