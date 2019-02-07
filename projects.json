@@ -43,7 +43,7 @@
 {
     "name": "Pool Detection Aerial Imagery",
     "info": "Building a computer vision model to detect pools from satellite imagery.",
-    "url": "https://danielcorcoranssql.wordpress.com/2019/01/13/detecting-pools-from-aerial-imagery-using-cv2/",
+    "url": "https://github.com/danielc92/pool-detection/blob/master/detect.ipynb",
     "date": "13-1-2019",
     "themes": ["object detection", "web scraping"],
     "tools": ["opencv2", "python", "jupyter"],
