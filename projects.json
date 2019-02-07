@@ -6,25 +6,28 @@
     "date": "24-1-2019",
     "themes": ["web development", "data engineering"],
     "tools": ["heroku","python", "SQL", "flask"],
-    "img-url": "img/projects/robot-forum-1.png"
+    "img-url": "img/projects/robot-forum-1.png",
+    "img-url-1x1": "img/projects-1x1/robot-forum.jpg"
 	},
 	{
     "name": "Rain Prediction",
-    "info": "Using sklearn to predict rain on the next day in Australia (with 86% accuracy).",
+    "info": "Building a machine learning model to predict rain on the next day (with 86% accuracy).",
     "url": "https://github.com/danielc92/rain_prediction/blob/master/Process.ipynb",
     "date": "21-1-2019",
-    "themes": ["binary classification", "machine learning", "random forest"],
+    "themes": ["binary classification", "feature engineering", "machine learning", "random forest"],
     "tools": ["sklearn", "python", "jupyter"],
-    "img-url": "img/projects/rain-prediction.jpg"
+    "img-url": "img/projects/rain-prediction.jpg",
+    "img-url-1x1": "img/projects-1x1/rain.png"
 	},
     {
     "name": "SMS Spam Detection",
-    "info": "Using sklearn to classify spam sms messages (with 96% accuracy).",
+    "info": "Building a machine learning model to automatically classify spam sms messages (with 96% accuracy).",
     "url": "https://github.com/danielc92/python_nb_sklearn_gaussian_naive_bayes/blob/master/multinomial-naive-bayes-spam-gridsearch.ipynb",
     "date": "16-1-2019",
     "themes": ["text classification", "machine learning", "naive bayes"],
     "tools": ["sklearn", "python", "jupyter"],
-    "img-url": "img/projects/spam-mail.png"
+    "img-url": "img/projects/spam-mail.png",
+    "img-url-1x1": "img/projects-1x1/spam.png"
 },
 
     {
@@ -34,34 +37,38 @@
     "date": "15-1-2019",
     "themes": ["text classification", "machine learning", "naive bayes"],
     "tools": ["sklearn", "python", "jupyter"],
-    "img-url": "img/projects/sentiment.jpg"
+    "img-url": "img/projects/sentiment.jpg",
+    "img-url-1x1": "img/projects-1x1/imdb.png"
 },
 {
     "name": "Pool Detection Aerial Imagery",
-    "info": "Detecting pools in Melbourne from high quality satellite imagery.",
+    "info": "Building a computer vision model to detect pools from satellite imagery.",
     "url": "https://danielcorcoranssql.wordpress.com/2019/01/13/detecting-pools-from-aerial-imagery-using-cv2/",
     "date": "13-1-2019",
-    "themes": ["object detection"],
+    "themes": ["object detection", "web scraping"],
     "tools": ["opencv2", "python", "jupyter"],
-    "img-url": "img/projects/pool-1.jpg"
+    "img-url": "img/projects/pool-1.jpg",
+    "img-url-1x1": "img/projects-1x1/pools.jpg"
 },
 {
     "name": "Shark Object Detection",
-    "info": "Training a YOLOv3 model to detect sharks under water in both image and video files.",
+    "info": "Training a YOLOv3 model to detect sharks inside image/video formats.",
     "url": "https://danielcorcoranssql.wordpress.com/2018/12/30/detecting-sharks-with-yolov3/",
     "date": "30-12-2018",
     "themes": ["deep learning", "object detection"],
     "tools": ["cuda", "c++", "CNN", "YOLOv3"],
-    "img-url": "img/projects/object-shark-1.jpg"
+    "img-url": "img/projects/object-shark-1.jpg",
+    "img-url-1x1": "img/projects-1x1/shark.jpg"
 },
 {
     "name": "DC Charts",
-    "info": "A flask web application capable of dynamically producing svg charts from csvs hosted on github.",
+    "info": "Architecting, building and deploying a lightweight visualization web application.",
     "url": "https://dc-chart.herokuapp.com",
     "date": "20-12-2018",
     "themes": ["web development", "data visualization", "data analysis"],
     "tools": ["flask", "heroku", "python", "pygal"],
-    "img-url": "img/projects/dc-chart-2.png"
+    "img-url": "img/projects/dc-chart-2.png",
+    "img-url-1x1": "img/projects-1x1/dc-charts.jpg"
 },
 {
     "name": "NFPA Object Detection",
@@ -70,16 +77,18 @@
     "date": "1-12-2018",
     "themes": ["deep learning", "object detection"],
     "tools": ["cuda", "c++", "CNN", "YOLOv3"],
-    "img-url": "img/projects/object-nfpa-1.png"
+    "img-url": "img/projects/object-nfpa-1.png",
+    "img-url-1x1": "img/projects-1x1/nfpa.jpg"
 },
 {
     "name": "Postgres Network Graph",
-    "info": "An animated visualization of a postgres database using D3.js, embedded in a tableau dashboard.",
+    "info": "Building and deploying animated visualizations for highly hierarchical data.",
     "url": "https://public.tableau.com/profile/daniel.corcoran#!/vizhome/dvdrental2/Visualizingdvdrentalspostgresdatabase",
     "date": "12-9-2018",
     "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
     "tools": ["tableau desktop", "tableau public", "D3.js", "python"],
-    "img-url": "img/projects/network-graph-1.png"
+    "img-url": "img/projects/network-graph-1.png",
+    "img-url-1x1": "img/projects-1x1/network.jpg"
 },
 {
     "name": "Logistic Regression Collection",
@@ -88,52 +97,58 @@
     "date": "20-7-2018",
     "themes": ["logistic regression", "machine learning", "classification"],
     "tools": ["jupyter notebook", "sklearn", "pandas", "python", "seaborn"],
-    "img-url": "img/projects/log.jpg"
+    "img-url": "img/projects/log.jpg",
+    "img-url-1x1": "img/projects-1x1/logistic-regression.jpg"
 },
 {
     "name": "Data Profiling",
-    "info": "A Jupyter notebook capable of profiling data using python's pandas library.",
+    "info": "Building a comprehensive data profiler in python.",
     "url": "https://github.com/danielc92/python_nb_data_profiling/blob/master/notebook_data_profililng.ipynb",
     "date": "15-7-2018",
     "themes": ["data visualization", "data profiling"],
     "tools": ["jupyter notebook", "pandas", "python", "seaborn"],
-    "img-url": "img/projects/data-profiling-1.png"
+    "img-url": "img/projects/data-profiling-1.png",
+    "img-url-1x1": "img/projects-1x1/profiler.jpg"
 },
 {
-	"name":"Static Site Generator",
-	"info":"Generating a static album website in python",
+	"name":"Album Website Generator",
+	"info":"Generating a static album website from an unknown amount of data.",
 	"url":"https://danielc92.github.io/static_site_generator/html/index0.html",
 	"date":"22-6-2018",
 	"themes":["web development"],
 	"tools":["python", "jupyter"],
-	"img-url":"img/projects/static-site-generator.png"
+	"img-url":"img/projects/static-site-generator.png",
+    "img-url-1x1": "img/projects-1x1/album-site.jpg"
 },
 {
-    "name": "Vic Crash Stats V2",
+    "name": "Victorian Crash Analysis",
     "info": "A tableau dashboard which examines over a decade of crash data in Victoria.",
     "url": "https://public.tableau.com/profile/daniel.corcoran#!/vizhome/VicCrashStatsv2/TransportDashboard",
     "date": "7-6-2018",
     "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
     "tools": ["tableau desktop", "tableau public", "python"],
-    "img-url": "img/projects/vic-crash-stats-1.png"
+    "img-url": "img/projects/vic-crash-stats-1.png",
+    "img-url-1x1": "img/projects-1x1/crash-dashboard.jpg"
 },
 {
-    "name": "Crime in Victoria",
+    "name": "Victorian Crime Analysis",
     "info": "A series of tableau dashboards which examine over a decade of crime data in Victoria.",
     "url": "https://public.tableau.com/profile/daniel.corcoran#!/vizhome/OffencesinVictoria/OffencesinVictoriaDashboard",
     "date": "7-6-2018",
     "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
     "tools": ["tableau desktop", "tableau public", "python"],
-    "img-url": "img/projects/crime-in-vic-1.png"
+    "img-url": "img/projects/crime-in-vic-1.png",
+    "img-url-1x1": "img/projects-1x1/crime-dashboard.jpg"
 },
 {
-    "name": "Preschool Trainer App",
-    "info": "Designing and building a desktop application capable of dynamically generating and marking student tests. This project has 2 parts.",
+    "name": "Preschool Trainer",
+    "info": "Designing, coding and compiling an education themed windows desktop application. This project has 2 parts.",
     "url": "https://danielcorcoranssql.wordpress.com/2017/03/12/c-project-preschool-trainer-v1-0-2-part-2/",
     "date": "12-3-2017",
     "themes": ["desktop application", "education"],
     "tools": ["Visual Studio", "C#"],
-    "img-url": "img/projects/preschool-trainer-1.png"
+    "img-url": "img/projects/preschool-trainer-1.png",
+    "img-url-1x1": "img/projects-1x1/preschool-trainer.jpg"
 },
 {
     "name": "University Database",
@@ -142,7 +157,8 @@
     "date": "12-2-2017",
     "themes": ["relational database", "database design"],
     "tools": ["Microsoft SQL Server", "SQL"],
-    "img-url": "img/projects/uni-database-1.png"
+    "img-url": "img/projects/uni-database-1.png",
+    "img-url-1x1": "img/projects-1x1/university.jpg"
 },
 {
     "name": "Police Database",
@@ -151,5 +167,6 @@
     "date": "2-1-2017",
     "themes": ["relational database", "database design"],
     "tools": ["Microsoft SQL Server", "SQL"],
-    "img-url": "img/projects/police-database-1.png"
+    "img-url": "img/projects/police-database-1.png",
+    "img-url-1x1": "img/projects-1x1/police.jpg"
 }]

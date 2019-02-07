@@ -125,7 +125,11 @@
                 <i class="fas fa-eye fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="{{p['img-url']}}" alt="">
+            {% if '.png' in p['img-url-1x1'] %}
+            <img style="padding: 3rem; background-color:white;" class="img-fluid" src="{{ p['img-url-1x1'] }}" alt="">
+            {% else %}
+            <img class="img-fluid" src="{{ p['img-url-1x1'] }}" alt="">
+            {% endif %}
           </a>
           <div class="portfolio-caption">
             <h4>{{ p.name }} </h4>
