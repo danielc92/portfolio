@@ -7,7 +7,8 @@
     "themes": ["web development", "data engineering"],
     "tools": ["heroku","python", "SQL", "flask"],
     "img-url": "img/projects/robot-forum-1.png",
-    "img-url-1x1": "img/projects-1x1/robot-forum.jpg"
+    "img-url-1x1": "img/projects-1x1/robot-forum.jpg",
+    "padded-image":0
 	},
 	{
     "name": "Rain Prediction",
@@ -17,7 +18,8 @@
     "themes": ["binary classification", "feature engineering", "machine learning", "random forest"],
     "tools": ["sklearn", "python", "jupyter"],
     "img-url": "img/projects/rain-prediction.jpg",
-    "img-url-1x1": "img/projects-1x1/rain.png"
+    "img-url-1x1": "img/projects-1x1/rain.png",
+    "padded-image":1
 	},
     {
     "name": "SMS Spam Detection",
@@ -27,7 +29,8 @@
     "themes": ["text classification", "machine learning", "naive bayes"],
     "tools": ["sklearn", "python", "jupyter"],
     "img-url": "img/projects/spam-mail.png",
-    "img-url-1x1": "img/projects-1x1/spam.png"
+    "img-url-1x1": "img/projects-1x1/spam.png",
+    "padded-image":1
 },
 
     {
@@ -38,7 +41,8 @@
     "themes": ["text classification", "machine learning", "naive bayes"],
     "tools": ["sklearn", "python", "jupyter"],
     "img-url": "img/projects/sentiment.jpg",
-    "img-url-1x1": "img/projects-1x1/imdb.png"
+    "img-url-1x1": "img/projects-1x1/imdb.png",
+    "padded-image":1
 },
 {
     "name": "Pool Detection Aerial Imagery",
@@ -58,7 +62,8 @@
     "themes": ["deep learning", "object detection"],
     "tools": ["cuda", "c++", "CNN", "YOLOv3"],
     "img-url": "img/projects/object-shark-1.jpg",
-    "img-url-1x1": "img/projects-1x1/shark.jpg"
+    "img-url-1x1": "img/projects-1x1/shark.jpg",
+    "padded-image":0
 },
 {
     "name": "DC Charts",
@@ -68,7 +73,8 @@
     "themes": ["web development", "data visualization", "data analysis"],
     "tools": ["flask", "heroku", "python", "pygal"],
     "img-url": "img/projects/dc-chart-2.png",
-    "img-url-1x1": "img/projects-1x1/dc-chart-2.png"
+    "img-url-1x1": "img/projects-1x1/dc-chart-2.png",
+    "padded-image":0
 },
 {
     "name": "NFPA Object Detection",
@@ -78,7 +84,8 @@
     "themes": ["deep learning", "object detection"],
     "tools": ["cuda", "c++", "CNN", "YOLOv3"],
     "img-url": "img/projects/object-nfpa-1.png",
-    "img-url-1x1": "img/projects-1x1/nfpa.jpg"
+    "img-url-1x1": "img/projects-1x1/nfpa.jpg",
+    "padded-image":0
 },
 {
     "name": "Postgres Network Graph",
@@ -88,7 +95,8 @@
     "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
     "tools": ["tableau desktop", "tableau public", "D3.js", "python"],
     "img-url": "img/projects/network-graph-1.png",
-    "img-url-1x1": "img/projects-1x1/network.jpg"
+    "img-url-1x1": "img/projects-1x1/network.jpg",
+    "padded-image":0
 },
 {
     "name": "Logistic Regression Collection",
@@ -98,7 +106,8 @@
     "themes": ["logistic regression", "machine learning", "classification"],
     "tools": ["jupyter notebook", "sklearn", "pandas", "python", "seaborn"],
     "img-url": "img/projects/log.jpg",
-    "img-url-1x1": "img/projects-1x1/logistic-regression.jpg"
+    "img-url-1x1": "img/projects-1x1/logistic-regression.jpg",
+    "padded-image":0
 },
 {
     "name": "Data Profiling",
@@ -108,7 +117,8 @@
     "themes": ["data visualization", "data profiling"],
     "tools": ["jupyter notebook", "pandas", "python", "seaborn"],
     "img-url": "img/projects/data-profiling-1.png",
-    "img-url-1x1": "img/projects-1x1/profiler.jpg"
+    "img-url-1x1": "img/projects-1x1/profiler.jpg",
+    "padded-image":0
 },
 {
 	"name":"Album Website Generator",
@@ -118,7 +128,8 @@
 	"themes":["web development"],
 	"tools":["python", "jupyter"],
 	"img-url":"img/projects/static-site-generator.png",
-    "img-url-1x1": "img/projects-1x1/album-site.jpg"
+    "img-url-1x1": "img/projects-1x1/album-site.jpg",
+    "padded-image":0
 },
 {
     "name": "Victorian Crash Analysis",
@@ -128,7 +139,8 @@
     "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
     "tools": ["tableau desktop", "tableau public", "python"],
     "img-url": "img/projects/vic-crash-stats-1.png",
-    "img-url-1x1": "img/projects-1x1/crash-dashboard.jpg"
+    "img-url-1x1": "img/projects-1x1/crash-dashboard.jpg",
+    "padded-image":0
 },
 {
     "name": "Victorian Crime Analysis",
@@ -138,7 +150,8 @@
     "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
     "tools": ["tableau desktop", "tableau public", "python"],
     "img-url": "img/projects/crime-in-vic-1.png",
-    "img-url-1x1": "img/projects-1x1/crime-dashboard.jpg"
+    "img-url-1x1": "img/projects-1x1/crime-dashboard.jpg",
+    "padded-image":0
 },
 {
     "name": "Preschool Trainer",
@@ -148,7 +161,8 @@
     "themes": ["desktop application", "education"],
     "tools": ["Visual Studio", "C#"],
     "img-url": "img/projects/preschool-trainer-1.png",
-    "img-url-1x1": "img/projects-1x1/preschool-trainer.jpg"
+    "img-url-1x1": "img/projects-1x1/preschool-trainer.jpg",
+    "padded-image":0
 },
 {
     "name": "University Database",
@@ -158,7 +172,8 @@
     "themes": ["relational database", "database design"],
     "tools": ["Microsoft SQL Server", "SQL"],
     "img-url": "img/projects/uni-database-1.png",
-    "img-url-1x1": "img/projects-1x1/university.jpg"
+    "img-url-1x1": "img/projects-1x1/university.jpg",
+    "padded-image":0
 },
 {
     "name": "Police Database",
@@ -168,5 +183,6 @@
     "themes": ["relational database", "database design"],
     "tools": ["Microsoft SQL Server", "SQL"],
     "img-url": "img/projects/police-database-1.png",
-    "img-url-1x1": "img/projects-1x1/police.jpg"
+    "img-url-1x1": "img/projects-1x1/police.jpg",
+    "padded-image":0
 }]

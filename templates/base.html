@@ -125,7 +125,7 @@
                 <i class="fas fa-eye fa-3x"></i>
               </div>
             </div>
-            {% if '.png' in p['img-url-1x1'] %}
+            {% if p['padded-image'] == 1 %}
             <img style="padding: 3rem; background-color:white;" class="img-fluid" src="{{ p['img-url-1x1'] }}" alt="">
             {% else %}
             <img class="img-fluid" src="{{ p['img-url-1x1'] }}" alt="">
