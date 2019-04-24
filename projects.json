@@ -1,5 +1,15 @@
 [
 	{
+    "name": "TODO",
+    "info": "Architecting and deploying a productivity-themed web application.",
+    "url": "https://dctodo.herokuapp.com",
+    "date": "23-4-2019",
+    "themes": ["web development"],
+    "tools": ["Heroku", "Flask", "MongoDB"],
+    "img-url-1x1": "img/projects-1x1/todo.jpg",
+    "padded-image":0
+    },
+	{
     "name": "RetinaNet - Sea Turtle Model",
     "info": "Preparing data for, and training a RetinaNet object detection model for sea turtles.",
     "url": "https://danielcorcoranssql.wordpress.com/2019/04/19/keras-retinanet-sea-turtle-training-detection/",
@@ -15,7 +25,7 @@
     "url": "https://office-api.herokuapp.com",
     "date": "25-3-2019",
     "themes": ["web development", "data engineering"],
-    "tools": ["heroku","python", "flask-restplus", "flask"],
+    "tools": ["Heroku","python", "Flask-restplus", "Flask"],
     "img-url-1x1": "img/projects-1x1/office-api.png",
     "padded-image":0
     },
@@ -25,7 +35,7 @@
     "url": "https://robot-forum.herokuapp.com",
     "date": "24-1-2019",
     "themes": ["web development", "data engineering"],
-    "tools": ["heroku","python", "SQL", "flask"],
+    "tools": ["Heroku","python", "SQL", "Flask"],
     "img-url": "img/projects/robot-forum-1.png",
     "img-url-1x1": "img/projects-1x1/robot-forum.jpg",
     "padded-image":0
@@ -91,7 +101,7 @@
     "url": "https://dc-chart.herokuapp.com",
     "date": "20-12-2018",
     "themes": ["web development", "data visualization", "data analysis"],
-    "tools": ["flask", "heroku", "python", "pygal"],
+    "tools": ["Flask", "Heroku", "python", "pygal"],
     "img-url": "img/projects/dc-chart-2.png",
     "img-url-1x1": "img/projects-1x1/dc-chart-2.png",
     "padded-image":0
