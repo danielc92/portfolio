@@ -1,11 +1,22 @@
 [
 	{
+    "name": "DCPOLL",
+    "info": "Architecting and deploying a polling themed web application.",
+    "url": "https://danielc92.pythonanywhere.com",
+    "date": "08-5-2019",
+    "themes": ["web development"],
+    "tools": ["Pythonanywhere", "Django", "sqlite", "Python"],
+    "img-url-1x1": "img/projects-1x1/poll.png",
+    "padded-image":0
+    },
+
+	{
     "name": "TODO",
-    "info": "Architecting and deploying a productivity-themed web application.",
+    "info": "Architecting and deploying a productivity themed web application.",
     "url": "https://dctodo.herokuapp.com",
     "date": "23-4-2019",
     "themes": ["web development"],
-    "tools": ["Heroku", "Flask", "MongoDB"],
+    "tools": ["Heroku", "Flask", "MongoDB", "Python"],
     "img-url-1x1": "img/projects-1x1/todo.jpg",
     "padded-image":0
     },
@@ -15,7 +26,7 @@
     "url": "https://danielcorcoranssql.wordpress.com/2019/04/19/keras-retinanet-sea-turtle-training-detection/",
     "date": "20-4-2019",
     "themes": ["object detection"],
-    "tools": ["RetinaNet","python", "Google Collab", "keras"],
+    "tools": ["RetinaNet","Python", "Google Collab", "keras"],
     "img-url-1x1": "img/projects-1x1/turtle.jpg",
     "padded-image":0
     },
@@ -25,7 +36,7 @@
     "url": "https://office-api.herokuapp.com",
     "date": "25-3-2019",
     "themes": ["web development", "data engineering"],
-    "tools": ["Heroku","python", "Flask-restplus", "Flask"],
+    "tools": ["Heroku","Python", "Flask-restplus", "Flask"],
     "img-url-1x1": "img/projects-1x1/office-api.png",
     "padded-image":0
     },
@@ -35,7 +46,7 @@
     "url": "https://robot-forum.herokuapp.com",
     "date": "24-1-2019",
     "themes": ["web development", "data engineering"],
-    "tools": ["Heroku","python", "SQL", "Flask"],
+    "tools": ["Heroku","Python", "SQL", "Flask"],
     "img-url": "img/projects/robot-forum-1.png",
     "img-url-1x1": "img/projects-1x1/robot-forum.jpg",
     "padded-image":0
@@ -46,7 +57,7 @@
     "url": "https://github.com/danielc92/rain_prediction/blob/master/Process.ipynb",
     "date": "21-1-2019",
     "themes": ["binary classification", "feature engineering", "machine learning", "random forest"],
-    "tools": ["sklearn", "python", "jupyter"],
+    "tools": ["sklearn", "Python", "jupyter"],
     "img-url": "img/projects/rain-prediction.jpg",
     "img-url-1x1": "img/projects-1x1/rain.png",
     "padded-image":1
