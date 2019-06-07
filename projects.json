@@ -1,5 +1,16 @@
 [
 	{
+    "name": "Grocery Store",
+    "info": "Developing a front-end application for a grocery store in React.",
+    "url": "https://danielc92.github.io/react-grocery-app/",
+    "date": "7-6-2019",
+    "themes": ["web development"],
+    "tools": ["React", "Github Pages", "Javascript", "HTML", "CSS", "JSON"],
+    "img-url-1x1": "img/projects-1x1/grocery.jpg",
+    "padded-image":0
+    },
+
+	{
     "name": "DCPOLL",
     "info": "Architecting and deploying a polling themed web application.",
     "url": "https://danielc92.pythonanywhere.com",
