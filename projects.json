@@ -1,11 +1,21 @@
 [
 	{
+    "name": "Carbon Intensity Dashboard",
+    "info": "Developing an web-based dashboard using purely open source libraries.",
+    "url": "https://danielc92.github.io/react-carbon-api/",
+    "date": "17-6-2019",
+    "themes": ["web development", "data analysis"],
+    "tools": ["React.js", "Github Pages", "Javascript", "HTML/CSS", "JSON", "API", "Chart.js"],
+    "img-url-1x1": "img/projects-1x1/carbon-api.jpg",
+    "padded-image":0
+    },
+	{
     "name": "Grocery Store",
     "info": "Developing a front-end application for a grocery store in React.",
     "url": "https://danielc92.github.io/react-grocery-app/",
     "date": "7-6-2019",
     "themes": ["web development"],
-    "tools": ["React", "Github Pages", "Javascript", "HTML", "CSS", "JSON"],
+    "tools": ["React.js", "Github Pages", "Javascript", "HTML/CSS", "JSON"],
     "img-url-1x1": "img/projects-1x1/grocery.jpg",
     "padded-image":0
     },
