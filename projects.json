@@ -1,7 +1,7 @@
 [
 	{
     "name": "Carbon Intensity Dashboard",
-    "info": "Developing an web-based dashboard using purely open source libraries.",
+    "info": "Developing a web-based dashboard using purely open source libraries, based on the Carbon Intensity API.",
     "url": "https://danielc92.github.io/react-carbon-api/",
     "date": "17-6-2019",
     "themes": ["web development", "data analysis"],
