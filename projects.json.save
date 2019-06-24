@@ -1,20 +1,12 @@
-[{
-    "name": "Bidding platform",
-    "info": "Building a full-stack, bidding platform app for company stock.",
-    "url": "https://dc-bid-platform.herokuapp.com",
-    "date": "22-6-2019",
+[
+ {
+    "name": "Carbon Intensity Dashboard",
+    "info": "Developing a web-based dashboard using purely open source librarie$
+    "url": "https://danielc92.github.io/react-carbon-api/",
+    "date": "17-6-2019",
     "themes": ["web development", "data analysis"],
-    "tools": ["Heroku", "Django", "Materialize", "Javascript", "Chart.js", "ORM"],
-    "img-url-1x1": "img/projects-1x1/bidding.jpg",
-    "padded-image":0
-    },{
-    "name": "Lyrics App",
-    "info": "Building a lyrics application, powered by musixmatch API.",
-    "url": "https://danielc92.github.io/react-lyrics-app/",
-    "date": "15-6-2019",
-    "themes": ["web development"],
-    "tools": ["React.js", "Github Pages", "Javascript", "HTML/CSS", "JSON", "API", "Chart.js"],
-    "img-url-1x1": "img/projects-1x1/lyrics.jpg",
+    "tools": ["React.js", "Github Pages", "Javascript", "HTML/CSS", "JSON", "AP$
+    "img-url-1x1": "img/projects-1x1/carbon-api.jpg",
     "padded-image":0
     },
 	{
@@ -174,7 +166,7 @@
     "date": "12-9-2018",
     "themes": ["data visualization", "data analysis", "dashboard", "tableau"],
     "tools": ["tableau desktop", "tableau public", "D3.js", "python"],
-    "img-url": "img/projects/network-graph-1.png",
+    "img-url": "img/projects/network-graph-1.cpng",
     "img-url-1x1": "img/projects-1x1/network.jpg",
     "padded-image":0
 },
