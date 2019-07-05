@@ -4,7 +4,7 @@
     "url": "https://dc-bid-platform.herokuapp.com",
     "date": "22-6-2019",
     "themes": ["web development", "data analysis"],
-    "tools": ["Heroku", "Django", "Materialize", "Javascript", "Chart.js", "ORM"],
+    "tools": ["Heroku", "Django", "Materialize", "Javascript", "Chart.js", "SQL"],
     "img-url-1x1": "img/projects-1x1/bidding.jpg",
     "padded-image":0
     },{
@@ -13,7 +13,7 @@
     "url": "https://danielc92.github.io/react-lyrics-app/",
     "date": "15-6-2019",
     "themes": ["web development"],
-    "tools": ["React.js", "Github Pages", "Javascript", "HTML/CSS", "JSON", "API", "Chart.js"],
+    "tools": ["React.js", "Github Pages", "Javascript", "HTML/CSS", "JSON", "API"],
     "img-url-1x1": "img/projects-1x1/lyrics.jpg",
     "padded-image":0
     },
