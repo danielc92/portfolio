@@ -14,7 +14,7 @@
     "date": "22-6-2019",
     "themes": ["web development", "data analysis"],
     "tools": ["Heroku", "Django", "Materialize", "Javascript", "Chart.js", "SQL"],
-    "img-url-1x1": "img/projects-1x1/bidding.jpg",
+    "img-url-1x1": "img/projects-1x1/bidding2.png",
     "padded-image":0
     },{
     "name": "Lyrics App",
