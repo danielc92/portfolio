@@ -1,4 +1,15 @@
-[{
+[
+	{
+    "name": "Crypto",
+    "info": "Building a cryptocurrency app with React and CoinGecko API.",
+    "url": "https://danielc92.github.io/react-crypto-app",
+    "date": "29-7-2019",
+    "themes": ["web development"],
+    "tools": ["API", "React.js", "Redux.js", "Javascript", "Chart.js"],
+    "img-url-1x1": "img/projects-1x1/crypto.jpg",
+    "padded-image":0
+    },
+    {
     "name": "Real-time Chat App",
     "info": "Building a real-time chat application with socket.io and Nodejs.",
     "url": "https://github.com/danielc92/node-express-chatbox",
